@@ -1,1 +1,1 @@
-It prints just the kernel name
+In Linux the uname command with no option prints the kernel name
